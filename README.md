@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm an IT specialist with a passion for Data Scien
 - 🌐 Web Development | 💡 Problem Solving
 
 ## Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manalalyami&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManalAlyami7&layout=compact&theme=radical)
 
 **
 **- 🔭 I’m currently working on ...

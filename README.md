@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an IT specialist with a passion for Data Scien
 - 🔭 I’m currently working on AI-driven data analytics projects.
 - 🌱 I’m learning advanced machine learning techniques.
 - 💬 Ask me about Data Science, AI, and Python!
-- 📫 How to reach me: [your email or LinkedIn link]
+- 📫 How to reach me: [www.linkedin.com/in/manal-alyami]
 
 ## My Skills
 - 🐍 Python | 🖥️ SQL | 📊 Data Visualization

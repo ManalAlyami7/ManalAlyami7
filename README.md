@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm an IT specialist with a passion for Data Scien
 - 🤖 Machine Learning | 📈 Big Data Analytics
 - 🌐 Web Development | 💡 Problem Solving
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=ManalAlyami7
 
 **
 **- 🔭 I’m currently working on ...

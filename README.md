@@ -12,11 +12,7 @@ Welcome to my GitHub profile! I'm an IT specialist with a passion for Data Scien
 - 🐍 Python | 🖥️ SQL | 📊 Data Visualization  
 - 🤖 Machine Learning | 📈 Big Data Analytics  
 - 🌐 Web Development | 💡 Problem Solving  
-- 📱 Mobile Development | AI  
-
-## Current Projects  
-- 🏥 **[HealthCare Platform Web Application](https://github.com/ManalAlyami7/HealthCare_platform_web_application):** A platform to streamline hospital operations.  
-- 🏠 **[Property Rental Web Application](https://github.com/ManalAlyami7/property-rental-webapp):** A web app for managing property rentals.  
+- 📱 Mobile Development | 🧠 AI  
 
 ## GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=ManalAlyami7&show_icons=true&theme=radical)  

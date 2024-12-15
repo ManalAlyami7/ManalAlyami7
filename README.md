@@ -15,8 +15,7 @@ Welcome to my GitHub profile! I'm an IT specialist with a passion for Data Scien
 - 📱 Mobile Development | 🧠 AI  
 
 ## Current Projects
--🤖 Telegram Chatbot
- !A generative AI-powered chatbot on Telegram, utilizing Natural Language Processing (NLP) to comprehend and respond to user queries in Arabic and English.
+-🤖 Telegram Chatbot: A generative AI-powered chatbot on Telegram, utilizing Natural Language Processing (NLP) to comprehend and respond to user queries in Arabic and English.
  
 ## GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=ManalAlyami7&show_icons=true&theme=radical)  

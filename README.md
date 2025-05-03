@@ -24,3 +24,4 @@ Welcome to my GitHub profile! I'm an IT specialist with a passion for Data Scien
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ManalAlyami7)

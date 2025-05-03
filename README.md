@@ -1,7 +1,5 @@
 <!-- ==================== Header Badges ==================== -->
-<p align="right">
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ManalAlyami7.ManalAlyami7)
-</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ManalAlyami7.ManalAlyami7" alt="Visitor Badge" style="float:right;">
 
 <!-- Tech Stack Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +36,7 @@ Welcome to my GitHub! I’m an IT specialist with a strong passion for Data Scie
 
 ### 🚧 Current & Featured Projects  
 
-- 🤖 **[Telegram Chatbot]**  
+- 🤖 **[Telegram Chatbot](https://github.com/ManalAlyami7/telegram-ai-chatbot)**  
   A generative AI-powered chatbot on Telegram using NLP to understand and respond to queries in Arabic and English.
 
 - 🏥 **[Healthcare Web Platform](https://github.com/ManalAlyami7/healthcare-web-app)**  
@@ -68,4 +66,5 @@ Welcome to my GitHub! I’m an IT specialist with a strong passion for Data Scie
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManalAlyami7&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManalAlyami7&layout=compact&theme=radical)

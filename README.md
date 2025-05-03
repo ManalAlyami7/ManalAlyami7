@@ -1,4 +1,8 @@
 <!-- ==================== Header Badges ==================== -->
+<p align="right">
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ManalAlyami7.ManalAlyami7)
+</p>
+
 <!-- Tech Stack Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -6,7 +10,6 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 <!-- Visitor and Streak Badges -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ManalAlyami7)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManalAlyami7&theme=radical)
 
 ---

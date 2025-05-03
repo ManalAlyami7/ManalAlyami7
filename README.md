@@ -38,7 +38,7 @@ Welcome to my GitHub! I’m an IT specialist with a strong passion for Data Scie
 
 ### 🚧 Current & Featured Projects  
 
-- 🤖 **[Telegram Chatbot](https://github.com/ManalAlyami7/telegram-ai-chatbot)**  
+- 🤖 **[Telegram Chatbot]**  
   A generative AI-powered chatbot on Telegram using NLP to understand and respond to queries in Arabic and English.
 
 - 🏥 **[Healthcare Web Platform](https://github.com/ManalAlyami7/healthcare-web-app)**  
@@ -68,5 +68,4 @@ Welcome to my GitHub! I’m an IT specialist with a strong passion for Data Scie
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManalAlyami7&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManalAlyami7&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?)

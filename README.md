@@ -20,3 +20,7 @@ Welcome to my GitHub profile! I'm an IT specialist with a passion for Data Scien
 ## GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=ManalAlyami7&show_icons=true&theme=radical)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManalAlyami7&layout=compact&theme=radical)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+

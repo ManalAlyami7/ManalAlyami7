@@ -36,16 +36,16 @@ Welcome to my GitHub! I’m an IT specialist with a strong passion for Data Scie
 
 ### 🚧 Current & Featured Projects  
 
-- 🤖 **[Telegram Chatbot](https://github.com/ManalAlyami7/telegram-ai-chatbot)**  
+- 🤖 **[Telegram Chatbot]**  
   A generative AI-powered chatbot on Telegram using NLP to understand and respond to queries in Arabic and English.
 
-- 🏥 **[Healthcare Web Platform](https://github.com/ManalAlyami7/healthcare-web-app)**  
+- 🏥 **[Healthcare Web Platform](https://github.com/ManalAlyami7/HealthCare_platform_web_application)**  
   Full-stack web app for managing patient records, appointments, and prescriptions.
 
-- 🏠 **[Property Rental Web App](https://github.com/ManalAlyami7/property-rental-webapp)**  
+- 🏠 **[Property Rental Web App]([https://github.com/ManalAlyami7/property-rental-webapp])**  
   A user-friendly rental management platform with listing, booking, and admin features.
 
-- 💪 **[SmartFitness: GA-Based Planner](https://github.com/ManalAlyami7/smartfitness-ga-planner)**  
+- 💪 **[SmartFitness: GA-Based Planner](https://github.com/ManalAlyami7/SmartFitness-AI-Driven-Personalized-Fitness-Meal-Planner-using-Genetic-Algorithm)**  
   AI-driven personalized fitness & meal planner using Genetic Algorithms to optimize workout routines and diets.
 
 ---
@@ -55,13 +55,6 @@ Welcome to my GitHub! I’m an IT specialist with a strong passion for Data Scie
 - ➕ **Future Goals:**  
   - Develop intelligent AI agents for task automation & decision support  
   - Build advanced chatbots with memory, context, and multi-turn dialogue  
-
----
-
-### 🧪 Currently Exploring  
-- LangChain and OpenAI API for building smart assistants  
-- Retrieval-augmented generation (RAG) & prompt engineering  
-- Autonomous multi-agent systems & tool integration  
 
 ---
 

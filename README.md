@@ -42,7 +42,7 @@ Welcome to my GitHub! I’m an IT specialist with a strong passion for Data Scie
 - 🏥 **[Healthcare Web Platform](https://github.com/ManalAlyami7/HealthCare_platform_web_application)**  
   Full-stack web app for managing patient records, appointments, and prescriptions.
 
-- 🏠 **[Property Rental Web App]([https://github.com/ManalAlyami7/property-rental-webapp])**  
+- 🏠 **[Property Rental Web App](https://github.com/ManalAlyami7/property-rental-webapp)**  
   A user-friendly rental management platform with listing, booking, and admin features.
 
 - 💪 **[SmartFitness: GA-Based Planner](https://github.com/ManalAlyami7/SmartFitness-AI-Driven-Personalized-Fitness-Meal-Planner-using-Genetic-Algorithm)**  

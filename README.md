@@ -2,7 +2,7 @@
 <!-- Tech Stack Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img-shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img-shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 <!-- Visitor and Streak Badges -->
@@ -50,10 +50,6 @@ Welcome to my GitHub! I’m an IT specialist with a strong passion for Data Scie
 ---
 
 ### 🎯 2025 Goals & Future Plans  
-- ✅ Master advanced deep learning architectures (Transformers, GANs)  
-- ✅ Contribute to open-source AI/ML repositories  
-- ✅ Build and deploy production-ready AI models  
-- ✅ Explore cloud-based ML (AWS, GCP)  
 - ➕ **Future Goals:**  
   - Develop intelligent AI agents for task automation & decision support  
   - Build advanced chatbots with memory, context, and multi-turn dialogue  

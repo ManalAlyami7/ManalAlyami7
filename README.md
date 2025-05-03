@@ -1,7 +1,7 @@
 <!-- ==================== Header Badges ==================== -->
 <!-- Tech Stack Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img-shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -20,7 +20,8 @@ Welcome to my GitHub! I’m an IT specialist with a strong passion for Data Scie
 - 🔭 Currently working on AI-driven data analytics projects  
 - 🌱 Exploring advanced machine learning and deep learning techniques  
 - 💬 Ask me about Data Science, AI, and Python!  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/manal-alyami)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/manal-alyami)  
+- 🗂️ View my projects on [GitHub](https://github.com/ManalAlyami7)  
 
 ---
 
@@ -33,23 +34,23 @@ Welcome to my GitHub! I’m an IT specialist with a strong passion for Data Scie
 ---
 
 ### 🚧 Current & Featured Projects  
-- 🤖 **Telegram Chatbot**  
-  A generative AI-powered chatbot on Telegram using NLP to understand and respond to queries in both Arabic and English.
 
-- 🏥 **Healthcare Web Platform**  
-  Full-stack web app for managing patient records and appointments.  
-  [GitHub](https://github.com/ManalAlyami7/healthcare-web-app)
+- 🤖 **[Telegram Chatbot](https://github.com/ManalAlyami7/telegram-ai-chatbot)**  
+  A generative AI-powered chatbot on Telegram using NLP to understand and respond to queries in Arabic and English.
 
-- 🏠 **Property Rental Web App**  
-  A user-friendly rental management platform with listing, booking, and admin features.  
-  [GitHub](https://github.com/ManalAlyami7/property-rental-webapp)
+- 🏥 **[Healthcare Web Platform](https://github.com/ManalAlyami7/healthcare-web-app)**  
+  Full-stack web app for managing patient records, appointments, and prescriptions.
 
-- 💪 **SmartFitness**  
-  AI-driven personalized fitness & meal planner using a Genetic Algorithm to optimize workout routines and dietary plans.
+- 🏠 **[Property Rental Web App](https://github.com/ManalAlyami7/property-rental-webapp)**  
+  A user-friendly rental management platform with listing, booking, and admin features.
+
+- 💪 **[SmartFitness: GA-Based Planner](https://github.com/ManalAlyami7/smartfitness-ga-planner)**  
+  AI-driven personalized fitness & meal planner using Genetic Algorithms to optimize workout routines and diets.
 
 ---
 
 ### 🎯 2025 Goals & Future Plans  
+
 - ➕ **Future Goals:**  
   - Develop intelligent AI agents for task automation & decision support  
   - Build advanced chatbots with memory, context, and multi-turn dialogue  

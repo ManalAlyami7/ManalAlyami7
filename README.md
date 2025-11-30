@@ -86,16 +86,13 @@ Welcome to my GitHub! I'm an IT graduate specializing in Data Science and AI wit
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ManalAlyami7&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManalAlyami7&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManalAlyami7&theme=react-dark&hide_border=true)
 
 </div>
-
 ---
 
 <div align="center">

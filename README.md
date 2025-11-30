@@ -86,16 +86,6 @@ Welcome to my GitHub! I'm an IT graduate specializing in Data Science and AI wit
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManalAlyami7&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-
-<img height="180em" src="https://streak-stats.demolab.com/?user=ManalAlyami7&theme=radical" alt="GitHub Streak" />
-
-</div>
-
 ---
 
 <div align="center">

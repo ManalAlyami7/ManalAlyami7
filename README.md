@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm an IT graduate specializing in Data Science and AI wit
 ---
 
 ### 👩‍💻 About Me  
-- 🎓 IT Graduate from King Saud University (GPA: 4.69/5.0) - Data Science and AI Track
+- 🎓 IT Graduate from King Saud University - Data Science and AI Track
 - 🔬 Generative AI Bootcamp graduate from Saudi Digital Academy
 - 💼 Former Data Analysis Intern at Saudi Aramco
 - 🏆 Published Researcher at IEEE International Conference on Computing (ICOCO 2024)

@@ -18,22 +18,22 @@
 
 **Data Scientist & AI Engineer** | Published IEEE Researcher | Ex-Aramco Data Analyst
 
-I build production-ready AI systems that solve real-world problems. Published researcher at **IEEE ICOCO 2024**, with proven impact analyzing **500K+ records at Saudi Aramco** and developing GenAI solutions designed for **2M+ users**.
+I build production-ready AI systems that solve real-world problems. Published researcher at **IEEE ICOCO 2024**, with proven impact analyzing **14K+ records at Saudi Aramco** and developing GenAI solutions designed for **2M+ users**.
 
 **Currently:** Building intelligent AI agents with LangChain & LangGraph  
 **Open to:** Data Analyst | Data Scientist | AI Engineer roles 🚀
 
 ---
 
-> 🟢 **AVAILABLE FOR OPPORTUNITIES** - Data Science & AI roles in Saudi Arabia & GCC
+> 🟢 **AVAILABLE FOR OPPORTUNITIES** - Data Science & AI roles in Saudi Arabia
 
 ---
 
 ### 👩‍💻 About Me
 
-- 💼 **Ex-Data Analyst @ Saudi Aramco** - Analyzed 500K+ operational records, automated KPI reporting (40% time savings), built executive dashboards
+- 💼 **Ex-Data Analyst @ Saudi Aramco** - Analyzed 14K+ operational records, automated KPI reporting (40% time savings), built executive dashboards
 - 🏆 **Published Researcher @ IEEE ICOCO 2024** - AI-based smart reservation system for electric vehicles (peer-reviewed)
-- 🎓 **B.Sc. IT - Data Science & AI** | King Saud University | **GPA: 4.69/5.0** (Top 5%)
+- 🎓 **B.Sc. IT - Data Science & AI** | King Saud University 
 - 🔬 **Generative AI Certified** - Saudi Digital Academy (Nov 2025) + Azure AI Fundamentals (Microsoft)
 - 🚀 **Current Project:** Smart Hajj - multilingual AI chatbot serving 2M+ potential users with fraud prevention
 - 💬 Ask me about: **Data Science • Generative AI • LLMs • Python • Power BI**
@@ -129,7 +129,7 @@ Deep learning NLP system classifying emotional states from text data. Achieved *
 
 ---
 
-**⭐ Open to Data Science & AI Engineering opportunities in Saudi Arabia & GCC**
+**⭐ Open to Data Science & AI Engineering opportunities in Saudi Arabia**
 
 **Feel free to explore my repositories - star the ones you find interesting!**
 

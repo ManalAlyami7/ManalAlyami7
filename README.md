@@ -61,14 +61,14 @@ Data-driven decision making • Executive dashboards • Stakeholder communicati
 
 ### 🚀 Featured Projects
 
-#### 🕌 **[Smart Hajj - AI Chatbot & Voice Bot](https://github.com/ManalAlyami7/Hajj)** | [📹 Demo](your-demo-link)
+#### 🕌 **[Smart Hajj - AI Chatbot & Voice Bot](https://github.com/ManalAlyami7/Hajj)** | [📹 Demo](https://drive.google.com/file/d/1N09lOBYfsy_6dinxbSFIABXypu-4tIdr/view)
 Multilingual fraud prevention platform designed to serve **2M+ annual pilgrims**. Achieves **95%+ intent recognition accuracy** across Arabic, English, and Urdu with real-time verification against 7,000+ official Ministry of Hajj agencies.  
 **Tech:** Python, LangChain, LangGraph, Streamlit, RAG, Supabase  
 **Impact:** Fraud prevention at scale, multilingual support, real-time verification
 
 ---
 
-#### 🚗 **[AI Smart Reservation System](https://github.com/ManalAlyami7/AI-Smart-Reservation-System)** | **📄 Published @ IEEE ICOCO 2024**
+#### 🚗 **[AI Smart Reservation System](https://github.com/ManalAlyami7/Vehicle_Reservation_system)** | **📄 Published @ IEEE ICOCO 2024**
 Computer Vision system to optimize electric cart reservations at Al-masjid Al-haram. Achieved **92% vehicle detection accuracy** and **60% congestion reduction** in simulation testing.  
 **Tech:** Python, OpenCV, CNN, MySQL, Flutter  
 **Recognition:** Peer-reviewed publication at international IEEE conference (~30% acceptance rate)

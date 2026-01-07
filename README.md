@@ -61,7 +61,7 @@ Data-driven decision making • Executive dashboards • Stakeholder communicati
 
 ### 🚀 Featured Projects
 
-#### 🕌 **[Smart Hajj - AI Chatbot & Voice Bot](https://github.com/ManalAlyami7/Smart-Hajj)** | [📹 Demo](your-demo-link)
+#### 🕌 **[Smart Hajj - AI Chatbot & Voice Bot](https://github.com/ManalAlyami7/Hajj)** | [📹 Demo](your-demo-link)
 Multilingual fraud prevention platform designed to serve **2M+ annual pilgrims**. Achieves **95%+ intent recognition accuracy** across Arabic, English, and Urdu with real-time verification against 7,000+ official Ministry of Hajj agencies.  
 **Tech:** Python, LangChain, LangGraph, Streamlit, RAG, Supabase  
 **Impact:** Fraud prevention at scale, multilingual support, real-time verification
